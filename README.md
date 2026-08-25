@@ -10,3 +10,5 @@ Processed EEG data can be found at: https://osf.io/32dj5/overview.
 Code for decoding target location can be found inside decoding-code folder.
 
 Code for ERP analysis can be found inside ERP-code folder.
+
+Code for behavioral analysis can be found inside behavior-code folder.
