@@ -1,5 +1,5 @@
-# sl-object-EEG
-This repository contains the data and code for project "Neural Signatures of Statistical Learning in Real-World Objects"
+# Neural Signatures of Statistical Learning in Real-World Objects
+This repository contains the data and code for this project.
 
 In this project, we found people are able to learn the statistical regularities in real-world objects, but there exists large variance in how much each individual learned as reflected by the reaction time (RT) difference between frequent and infrequent target objects. Additionally, we found these behavioral RT differences are well tracked by the N2pc latency and LPC amplitude.
 
